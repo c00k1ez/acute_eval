@@ -1,8 +1,5 @@
 conda activate parlai_env
 
-export SECRET_KEY="syZz4CC+mxjWAZuD0zCIGR9TbPDK6R6lOt19eEgy"
-export ACCESS_KEY="AKIAYDU722ADXE6D4FVY"
-
 mephisto register mturk \
         name=MynaLabs \
         access_key_id=$ACCESS_KEY \
