@@ -1,0 +1,11 @@
+logs/
+outputs/
+selfchat_data/
+task_config/acute_results/
+task_config/pairings_files/
+webapp/build/
+webapp/node_modules/
+webapp/package-lock.json
+__pycache__/
+.idea/
+.vscode/

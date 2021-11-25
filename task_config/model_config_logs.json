@@ -1,0 +1,12 @@
+{
+    "model1": {
+        "log_path": "/Users/egor-work/Documents/acute_eval/selfchat_data/self_chats/TransformerGenerator_1_TransformerGenerator_2_selfchat.jsonl",
+        "is_selfchat": true,
+        "speaker_idx": 0
+    },
+    "model2": {
+        "log_path": "/Users/egor-work/Documents/acute_eval/selfchat_data/finetune_selfchat/TransformerGenerator_1_TransformerGenerator_2_selfchat.jsonl",
+        "is_selfchat": true,
+        "speaker_idx": 1
+    }
+}
